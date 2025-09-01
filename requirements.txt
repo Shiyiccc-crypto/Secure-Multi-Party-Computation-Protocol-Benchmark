@@ -1,0 +1,4 @@
+# Dependencies for Privacy-Preserving Secure Summation Protocol
+# Required for cryptographic operations and random number generation
+
+pycryptodome==3.19.0
